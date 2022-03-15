@@ -10,6 +10,7 @@ function Gb() {
                 <Link to="/"><Button>Home</Button></Link>
                 <Link to="/about"><Button>About</Button></Link>
                 <Link to="/contact"><Button>Contact</Button></Link>
+                <Link to="/login"><Button>Login</Button></Link>
             </ButtonGroup>
         </div>
     );
